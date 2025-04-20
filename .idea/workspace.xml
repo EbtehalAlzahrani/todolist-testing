@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90ff7f0-5ce1-4bca-a47d-181a6b77be21" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e90ff7f0-5ce1-4bca-a47d-181a6b77be21" name="Default Changelist" comment="Testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/sda/todolist/TaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sda/todolist/TaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/sda/todolist/MessagesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/sda/todolist/MessagesTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,20 +75,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EbtehalAlzahrani"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EbtehalAlzahrani&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EbtehalAlzahrani/todolist-testing.git",
-    "accountId": "e8ae56fc-341b-4d53-88ab-cfd8a95e65c6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EbtehalAlzahrani/todolist-testing.git&quot;,
+    &quot;accountId&quot;: &quot;e8ae56fc-341b-4d53-88ab-cfd8a95e65c6&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -103,43 +113,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.Build todo-list.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TaskTest.testDuplicateTaskEquality.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TaskTest.testPastDueDate.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TaskTest.testTaskHashCode.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testAddMultipleTasks.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testAddTask.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testAddTaskWithEmptyProject.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testAddTaskWithNullDate.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testCompletedCountAfterMultipleTasks.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testCompletedCountEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testNotCompletedCountAfterMarkingCompleted.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testReadFromMissingFile.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testSaveAndReadFromFile.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.TodoListTest.testSaveToInvalidPath.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build todo-list.executor": "Run",
+    "Gradle.MessagesTest.testMainMenuOutput.executor": "Run",
+    "Gradle.TaskTest.testDuplicateTaskEquality.executor": "Run",
+    "Gradle.TaskTest.testPastDueDate.executor": "Run",
+    "Gradle.TaskTest.testTaskHashCode.executor": "Run",
+    "Gradle.TodoListTest.testAddMultipleTasks.executor": "Run",
+    "Gradle.TodoListTest.testAddTask.executor": "Run",
+    "Gradle.TodoListTest.testAddTaskWithEmptyProject.executor": "Run",
+    "Gradle.TodoListTest.testAddTaskWithNullDate.executor": "Run",
+    "Gradle.TodoListTest.testCompletedCountAfterMultipleTasks.executor": "Run",
+    "Gradle.TodoListTest.testCompletedCountEmpty.executor": "Run",
+    "Gradle.TodoListTest.testNotCompletedCountAfterMarkingCompleted.executor": "Run",
+    "Gradle.TodoListTest.testReadFromMissingFile.executor": "Run",
+    "Gradle.TodoListTest.testSaveAndReadFromFile.executor": "Run",
+    "Gradle.TodoListTest.testSaveToInvalidPath.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="org.sda.todolist" />
@@ -151,7 +162,31 @@
       <recent name="$PROJECT_DIR$/src/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.TaskTest.testPastDueDate">
+  <component name="RunManager" selected="Gradle.MessagesTest.testMainMenuOutput">
+    <configuration name="MessagesTest.testMainMenuOutput" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;org.sda.todolist.MessagesTest.testMainMenuOutput&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="TaskTest.testDuplicateTaskEquality" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -224,30 +259,6 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="TodoListTest.testAddTaskWithEmptyProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;org.sda.todolist.TodoListTest.testAddTaskWithEmptyProject&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
     <configuration name="TodoListTest.testAddTaskWithNullDate" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -274,11 +285,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MessagesTest.testMainMenuOutput" />
         <item itemvalue="Gradle.TaskTest.testPastDueDate" />
         <item itemvalue="Gradle.TaskTest.testTaskHashCode" />
         <item itemvalue="Gradle.TaskTest.testDuplicateTaskEquality" />
         <item itemvalue="Gradle.TodoListTest.testAddTaskWithNullDate" />
-        <item itemvalue="Gradle.TodoListTest.testAddTaskWithEmptyProject" />
       </list>
     </recent_temporary>
   </component>
@@ -306,21 +317,78 @@
       <workItem from="1745070686704" duration="23000" />
       <workItem from="1745158958021" duration="4499000" />
       <workItem from="1745164170386" duration="1127000" />
+      <workItem from="1745167589996" duration="423000" />
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="Testing">
+      <option name="closed" value="true" />
+      <created>1745167767589</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1745167767589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
+    <option name="RECENT_FILTERS">
       <map>
-        <entry key="MAIN">
+        <entry key="Branch">
           <value>
-            <State />
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing" />
   </component>
 </project>
